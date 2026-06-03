@@ -44,7 +44,7 @@ const RECEITAS_INICIAIS = [
  "6. Modele bolinhas e coloque na assadeira.",
  "7. Asse em forno médio até dourar."
     ]}, 
-    videoUrl: 'https://raw.githubusercontent.com/jerog1971/projeto-mobile/main/videos/chocolate.mp4?raw=true'
+    videoUrl: 'https://github.com/matheusheenrique629/matheus/blob/main/videos/pao-de-queijo.mp4?raw=true'
   },
   { 
     id: "2", 
@@ -84,7 +84,7 @@ const RECEITAS_INICIAIS = [
  "5. Misture até formar uma massa homogênea.",
  "6. Coloque na forma untada e leve ao forno médio por cerca de 30 minutos."
     ]}, 
-    videoUrl: 'https://raw.githubusercontent.com/jerog1971/projeto-mobile/main/videos/fuba.mp4?raw=true' 
+    videoUrl: 'https://github.com/matheusheenrique629/matheus/blob/main/videos/beownie.mp4?raw=true' 
   },
   { 
     id: "3", 
@@ -131,7 +131,7 @@ const RECEITAS_INICIAIS = [
  "2. Mexa até engrossar.",
  "3. Despeje sobre o bolo e finalize com granulado."
 ]}, 
-    videoUrl: 'https://raw.githubusercontent.com/jerog1971/projeto-mobile/main/videos/cenoura.mp4?raw=true' 
+    videoUrl: 'https://github.com/matheusheenrique629/matheus/blob/main/videos/bolo-de-cenoura.mp4?raw=true' 
   },
   { 
     id: "4", 
@@ -171,7 +171,7 @@ const RECEITAS_INICIAIS = [
  "5. Coloque sobre a massa já fria.",
  "6. Leve à geladeira até firmar."
  ]}, 
-    videoUrl: 'https://raw.githubusercontent.com/jerog1971/projeto-mobile/main/videos/laranja.mp4?raw=true' 
+    videoUrl: 'https://github.com/matheusheenrique629/matheus/blob/main/videos/torta-de-limao.mp4?raw=true' 
   },
 ];
 
