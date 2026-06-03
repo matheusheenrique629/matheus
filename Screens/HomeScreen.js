@@ -84,7 +84,7 @@ const RECEITAS_INICIAIS = [
  "5. Misture até formar uma massa homogênea.",
  "6. Coloque na forma untada e leve ao forno médio por cerca de 30 minutos."
     ]}, 
-    videoUrl: 'https://github.com/matheusheenrique629/matheus/blob/main/videos/beownie.mp4?raw=true' 
+    videoUrl: 'https://github.com/matheusheenrique629/matheus/blob/main/videos/brownie.mp4?raw=true' 
   },
   { 
     id: "3", 
